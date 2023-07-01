@@ -2,7 +2,7 @@
 
 This is a preinstalled Ubuntu Distro with Gnome Desktop.For Android 12 & 13,before you install it , disable phantom process killer.Watch from here. 
 
-[Youtube](https://youtu.be/UxmQSETvAOc) 
+[Watch Video Here](https://youtu.be/UxmQSETvAOc) 
 
 ## Preview 
 
@@ -10,7 +10,7 @@ This is a preinstalled Ubuntu Distro with Gnome Desktop.For Android 12 & 13,befo
 
 # To Do 
 
-#### First,Download Archlinux Distro From Here.
+#### First,Download Ubuntu Distro From Here.
 [Download](https://archive.org/download/ubuntu.tar.xz/ubuntu.tar.xz) 
 
 ## Installation 
