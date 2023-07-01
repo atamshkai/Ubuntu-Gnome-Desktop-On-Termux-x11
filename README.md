@@ -21,7 +21,8 @@ Download ubuntu.tar.xz to Device's Download folder first.
 
 ``` 
 pkg up -y && pkg i -y zsh wget 
-wget https://github.com/atamshkai/Termux-Zsh/raw/main/zsh.tar.xz tar -xvJf zsh.tar.xz && mv zsh/.* ~/ && rm -rf zsh chsh -s zsh 
+wget https://github.com/atamshkai/Termux-Zsh/raw/main/zsh.tar.xz
+tar -xvJf zsh.tar.xz && mv zsh/.* ~/ && rm -rf zsh chsh -s zsh 
 ``` 
 
 #### Then, 
