@@ -54,10 +54,6 @@ termux-x11 :1
 ``` 
 proot-distro login ubuntu --shared-tmp 
 ```
-#### I forgot to install pulseaudio for sound.So install it.
-```
-apt update && apt install -y pulseaudio
-```
 #### Then 
 ``` 
 export DISPLAY=:1
@@ -69,7 +65,10 @@ gnome-shell --x11
 OR 
 ```
 gnome 
-``` 
+```
+### Warning
+
+If you upgrade the system,the desktop will be fail to launch.
 
 ## Termux 
 
