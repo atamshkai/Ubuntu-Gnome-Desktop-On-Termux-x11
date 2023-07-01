@@ -54,7 +54,7 @@ termux-x11 :1
 ``` 
 proot-distro login ubuntu --shared-tmp 
 ```
-### I forgot to install pulseaudio for sound.So install it.
+#### I forgot to install pulseaudio for sound.So install it.
 ```
 apt update && apt install -y pulseaudio
 ```
