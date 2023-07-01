@@ -53,7 +53,11 @@ termux-x11 :1
 #### Then,open another session & login 
 ``` 
 proot-distro login ubuntu --shared-tmp 
-``` 
+```
+### I forgot to install pulseaudio for sound.So install it.
+```
+apt update && apt install -y pulseaudio
+```
 #### Then 
 ``` 
 export DISPLAY=:1
