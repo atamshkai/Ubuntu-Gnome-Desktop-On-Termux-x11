@@ -1,6 +1,7 @@
 # Ubuntu-Gnome-Desktop-On-Termux-x11
 
 This is a preinstalled Ubuntu Distro with Gnome Desktop.For Android 12 & 13,before you install it , disable phantom process killer.Watch from here. 
+
 [Youtube](https://youtu.be/UxmQSETvAOc) 
 
 ## Preview 
@@ -64,5 +65,7 @@ OR
 ```
 gnome 
 ``` 
+
 ## Termux [Download](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk) 
-## Termux-x11 [Download](https://archive.org/download/termux-x11/app-universal-debug.apk) Archlinux,Manjaro,Debian,Kali OSs are suitable with KDE on termux-x11.
+
+## Termux-x11 [Download](https://archive.org/download/termux-x11/app-universal-debug.apk)
