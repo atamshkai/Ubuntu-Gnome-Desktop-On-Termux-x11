@@ -77,3 +77,7 @@ If you upgrade the system,the desktop will fail to launch.
 ## Termux-x11 
 
 [Download](https://archive.org/download/termux-x11/app-universal-debug.apk)
+
+## Termux-x11 Custom Resolution
+
+1920:1080
