@@ -68,7 +68,7 @@ gnome
 ```
 ### Warning
 
-If you upgrade the system,the desktop will be fail to launch.
+If you upgrade the system,the desktop will fail to launch.
 
 ## Termux 
 
