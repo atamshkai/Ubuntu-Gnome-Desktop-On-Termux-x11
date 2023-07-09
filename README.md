@@ -70,6 +70,28 @@ gnome
 
 If you upgrade the system,the desktop will fail to launch.
 
+Gnome fix
+
+```
+for file in $(find /usr -type f -iname "*login1*"); do 
+mv -v $file "$file.back"
+done
+```
+```
+echo "chmod u+s /usr/lib/dbus-1.0/dbus-daemon-launch-helper" >> ~/.bashrc
+```
+```
+mv -v /usr/share/applications/gnome-sound-panel.desktop /usr/share/applications/gnome-sound-panel.desktop.back
+```
+```
+echo "export XDG_CURRENT_DESKTOP=GNOME" >> ~/.bashrc
+```
+
+Login again 
+```
+exit
+```
+
 ## Termux 
 
 [Download](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk) 
