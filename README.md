@@ -70,7 +70,7 @@ gnome
 
 If you upgrade the system,the desktop will fail to launch.
 
-Gnome fix
+#### Fix it
 
 ```
 for file in $(find /usr -type f -iname "*login1*"); do 
