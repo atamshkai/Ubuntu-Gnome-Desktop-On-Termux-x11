@@ -27,7 +27,7 @@ rm -rf ~/zsh
 chsh -s zsh 
 ``` 
 
-#### Then, 
+#### Then, Add Sound 
 
 ``` 
 echo "killall pulseaudio &>/dev/null" >>~/.zshrc 
